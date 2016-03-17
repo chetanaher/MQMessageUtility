@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="Lib4/CL3Export.jar"/>
+	<classpathentry kind="lib" path="Lib4/CL3Nonexport.jar"/>
+	<classpathentry kind="lib" path="Lib4/com.ibm.mq.axis2.jar"/>
+	<classpathentry kind="lib" path="Lib4/com.ibm.mq.commonservices.jar"/>
+	<classpathentry kind="lib" path="Lib4/com.ibm.mq.defaultconfig.jar"/>
+	<classpathentry kind="lib" path="Lib4/com.ibm.mq.headers.jar"/>
+	<classpathentry kind="lib" path="Lib4/com.ibm.mq.jar"/>
+	<classpathentry kind="lib" path="Lib4/com.ibm.mq.jmqi.jar"/>
+	<classpathentry kind="lib" path="Lib4/com.ibm.mq.jms.Nojndi.jar"/>
+	<classpathentry kind="lib" path="Lib4/com.ibm.mq.pcf.jar"/>
+	<classpathentry kind="lib" path="Lib4/com.ibm.mq.postcard.jar"/>
+	<classpathentry kind="lib" path="Lib4/com.ibm.mq.soap.jar"/>
+	<classpathentry kind="lib" path="Lib4/com.ibm.mq.tools.ras.jar"/>
+	<classpathentry kind="lib" path="Lib4/com.ibm.mqjms.jar"/>
+	<classpathentry kind="lib" path="Lib4/connector.jar"/>
+	<classpathentry kind="lib" path="Lib4/dhbcore.jar"/>
+	<classpathentry kind="lib" path="Lib4/fscontext.jar"/>
+	<classpathentry kind="lib" path="Lib4/jms.jar"/>
+	<classpathentry kind="lib" path="Lib4/jndi.jar"/>
+	<classpathentry kind="lib" path="Lib4/jta.jar"/>
+	<classpathentry kind="lib" path="Lib4/ldap.jar"/>
+	<classpathentry kind="lib" path="Lib4/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="Lib4/providerutil.jar"/>
+	<classpathentry kind="lib" path="Lib4/rmm.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

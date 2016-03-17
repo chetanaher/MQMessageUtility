@@ -1,0 +1,19 @@
+INFO    2016-03-17 14:05:01,435 [main] MQReciever  - READING CONFIGURATION => D:\Fundtech\workspace_chetan\MQMessageUtility\config.properties
+INFO    2016-03-17 14:05:01,435 [main] MQReciever  - HOST => 10.91.10.252 PORT => 1418 MANAGER => CIMB_BU_DUMP.QM CHANNEL => CIMB_BU_DUMP.CH
+INFO    2016-03-17 14:05:01,919 [main] MQReciever  - QUEUE LISTENING => CIMB_VALIDATION
+INFO    2016-03-17 14:05:15,350 [main] MQReciever  - XSD FILE TO VALIDATE => D:\Fundtech\workspace_chetan\MQMessageUtility\xsd\Core_pacs.008.001.05-20151117.xsd
+INFO    2016-03-17 14:05:15,350 [main] MQReciever  - XML CONTENT TO VALIDATE => dsadsadsa
+ERROR   2016-03-17 14:05:15,492 [main] MQReciever  - SAX EXECPTIONschema_reference.4: Failed to read schema document 'file:/D:/Fundtech/workspace_chetan/MQMessageUtility/xsd/Core_pacs.008.001.05-20151117.xsd', because 1) could not find the document; 2) the document could not be read; 3) the root element of the document is not <xsd:schema>.
+ERROR   2016-03-17 14:05:15,492 [main] MQReciever  - PROVIDED MESSAGE IS NOT VALID OF TYPE => Core_pacs.008.001.05-20151117
+INFO    2016-03-17 14:09:03,228 [main] MQPost  - READING CONFIGURATION => D:\Fundtech\workspace_chetan\MQMessageUtility\config.properties
+INFO    2016-03-17 15:24:26,134 [main] MQPost  - READING CONFIGURATION => D:\Fundtech\workspace_chetan\MQMessageUtility\config.properties
+INFO    2016-03-17 16:33:25,974 [main] Receiver  - READING CONFIGURATION => D:\Fundtech\workspace_chetan\MQMessageUtility\config.properties
+INFO    2016-03-17 16:33:25,989 [main] Receiver  - HOST => 10.91.10.252 PORT => 1418 MANAGER => CIMB_BU_DUMP.QM CHANNEL => CIMB_BU_DUMP.CH
+INFO    2016-03-17 16:33:26,020 [main] MQPost  - READING CONFIGURATION => D:\Fundtech\workspace_chetan\MQMessageUtility\config.properties
+INFO    2016-03-17 16:33:27,327 [main] Receiver  - QUEUE LISTENING => CIMB_VALIDATION
+INFO    2016-03-17 16:33:27,890 [main] Receiver  - Mesage ReadMessage to post
+INFO    2016-03-17 16:33:34,124 [main] MQPost  - READING CONFIGURATION => D:\Fundtech\workspace_chetan\MQMessageUtility\config.properties
+INFO    2016-03-17 16:33:49,022 [main] MQPost  - READING CONFIGURATION => D:\Fundtech\workspace_chetan\MQMessageUtility\config.properties
+INFO    2016-03-17 16:33:53,853 [main] MQReceiverApproach2  - READING CONFIGURATION => D:\Fundtech\workspace_chetan\MQMessageUtility\config.properties
+INFO    2016-03-17 16:33:53,853 [main] MQReceiverApproach2  - HOST => 10.91.10.252 PORT => 1418 MANAGER => CIMB_BU_DUMP.QM CHANNEL => CIMB_BU_DUMP.CH
+INFO    2016-03-17 16:33:54,554 [main] MQReceiverApproach2  - Message read => Message to post
