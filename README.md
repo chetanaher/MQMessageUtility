@@ -40,6 +40,14 @@
 
 Above files I found at  (IBM MQ Installation folder)/java/lib/
 
+In aproach2 solved issue of jar 
+
+* DetailedJMSException: JMSCC0091: The provider factory for connection type 'com.ibm.msg.client.wmq' which I was facing converting sample IBM MQ code to jar file aproach2 works fine for jar
+
+
+
+
+
 
 
 

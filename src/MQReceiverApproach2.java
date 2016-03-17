@@ -14,7 +14,7 @@ import com.ibm.mq.MQQueueManager;
 import com.ibm.mq.constants.MQConstants;
 
 /**
-* To read mq message approach 2 is written for jar it was not working mq read from MQ Receiver code
+* To read mq message approach 2 is written for jar it was not working mq read from MQ Receiver code approach 2
 *  
  * @author Chetan.Aher
  *

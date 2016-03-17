@@ -19,7 +19,7 @@ import com.ibm.mq.jms.MQQueueSession;
 import com.ibm.msg.client.wmq.WMQConstants;
 
 /**
- * Read MQ message 
+ * Read MQ message approach 1
  * 
  * @author Chetan.Aher
  * 
