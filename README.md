@@ -38,7 +38,7 @@
 24. providerutil.jar 
 25. rmm.jar
 
-Above files I found at<IBM MQ Installation folder>/java/lib/
+Above files I found at  (IBM MQ Installation folder)/java/lib/
 
 
 
